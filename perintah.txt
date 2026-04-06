@@ -1,0 +1,12 @@
+Pada "./16. 6 April 2026/undangan-rapat-wisuda.txt", buatkan undangan rapat wisuda gabungan Kuttab Baitul Izzah dan Madrasah Al-Qur'an Baitul Izzah. Untuk waktunya jam 09.00 dan lokasinya di Kuttab Baitul Izzah kampus Monas. Tanggalnya adalah Kamis, 9 April 2026
+
+Jangan pakai format Markdown
+
+Bapak/Ibu ganti dengan Ustadz/ah
+
+Untuk yang bagian ini acak-acakan jadinya ketika tampil di WA:
+
+Hari/Tanggal    : Kamis, 9 April 2026
+Waktu           : 09.00 WITA
+Tempat          : Kuttab Baitul Izzah Kampus Monas
+Acara           : Rapat Persiapan Wisuda Santri
