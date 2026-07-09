@@ -1,1 +1,0 @@
-Selalu gunakan skill caveman
